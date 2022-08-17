@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 26.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1920 10000" style="enable-background:new 0 0 1920 10000;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-width:12;stroke-miterlimit:10;}
+	.st1{fill:none;stroke:#000000;stroke-width:14;stroke-miterlimit:10;}
+	.st2{font-family:'MyriadPro-Regular';}
+	.st3{font-size:72px;}
+	.st4{font-size:48px;}
+	.st5{font-size:36px;}
+	.st6{fill:none;}
+	.st7{fill:#FFFFFF;stroke:#000000;stroke-miterlimit:10;}
+	.st8{font-size:60px;}
+	.st9{stroke:#FFFFFF;stroke-miterlimit:10;}
+	.st10{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st11{font-size:21px;}
+</style>
+<polyline class="st0" points="-31.5,8.5 -185.9,8.5 -185.9,1269 -97,1269 "/>
+<text transform="matrix(1 0 0 1 -401.0806 658.7585)" class="st2 st3">100 vh</text>
+<rect x="2" y="0" class="st1" width="1918" height="123.4"/>
+<text transform="matrix(1 0 0 1 853.2974 -81.2429)" class="st2 st3">NavBar</text>
+<text transform="matrix(1 0 0 1 -905.5977 1304.3015)" class="st2 st4">Index Landing Page</text>
+<line x1="23" y1="24" x2="1878" y2="1281"/>
+<line x1="39" y1="1253" x2="1905.7" y2="24"/>
+<text transform="matrix(1 0 0 1 319.0132 377.1804)" class="st2 st3">Title Text</text>
+<text transform="matrix(1 0 0 1 319.3262 682.5603)" class="st2 st4">Login link</text>
+<polyline class="st0" points="-274.8,8.5 -471,8.5 -471,2600.8 -118,2600.8 "/>
+<text transform="matrix(1 0 0 1 1548.0801 1270.1475)" class="st2 st5">Background Image</text>
+<text transform="matrix(1 0 0 1 88.8159 71.9531)" class="st2 st5">Company Name</text>
+<text transform="matrix(1 0 0 1 1456.3682 71.9532)" class="st2 st5">Login</text>
+<text transform="matrix(1 0 0 1 1683.2607 71.9532)" class="st2 st5">Register</text>
+<rect x="169.6" y="1409.6" class="st6" width="1547.2" height="57.4"/>
+<text transform="matrix(1 0 0 1 169.6318 1435.1392)" class="st2 st5">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt </text>
+<rect x="681.2" y="1702.1" class="st6" width="1140.1" height="104.7"/>
+<text transform="matrix(1 0 0 1 681.1582 1727.6953)"><tspan x="0" y="0" class="st2 st5">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonum</tspan><tspan x="1107.7" y="0" class="st2 st5">-</tspan><tspan x="0" y="43.2" class="st2 st5">my nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. </tspan></text>
+<rect x="198.7" y="2111.8" class="st6" width="1010" height="158.8"/>
+<text transform="matrix(1 0 0 1 198.73 2137.3921)"><tspan x="0" y="0" class="st2 st5">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam </tspan><tspan x="0" y="43.2" class="st2 st5">nonummy nibh euismod tincidunt ut laoreet dolore magna ali</tspan><tspan x="928.4" y="43.2" class="st2 st5">-</tspan><tspan x="0" y="86.4" class="st2 st5">quam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud </tspan><tspan x="0" y="129.6" class="st2 st5">exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea com</tspan></text>
+<line x1="609" y1="1599" x2="183" y2="1849"/>
+<line x1="183" y1="1625.8" x2="609" y2="1849"/>
+<path d="M1403,2305c6-4,330.7-193.2,330.7-193.2"/>
+<line x1="1448" y1="2104" x2="1759" y2="2296"/>
+<polyline class="st0" points="-22.5,3175.8 -176.9,3175.8 -176.9,4436.2 -38.1,4436.2 "/>
+<text transform="matrix(1 0 0 1 -534.5967 3763.0881)" class="st2 st4">Login Page</text>
+<text transform="matrix(1 0 0 1 -512.3779 3831.5249)" class="st2 st8">100 vh</text>
+<line x1="-10.7" y1="3203.8" x2="1844.3" y2="4460.8"/>
+<line x1="5.3" y1="4432.8" x2="1872" y2="3203.8"/>
+<text transform="matrix(1 0 0 1 1514.3453 4449.9849)" class="st2 st5">Background Image</text>
+<rect x="589.3" y="3459.5" class="st7" width="687.5" height="832"/>
+<text transform="matrix(1 0 0 1 865.1704 3523.0029)" class="st2 st8">Login</text>
+<text transform="matrix(1 0 0 1 644.8877 3745.5215)" class="st2 st8">Email:</text>
+<text transform="matrix(1 0 0 1 633.7061 3902.0679)" class="st2 st8">Password:</text>
+<text transform="matrix(1 0 0 1 853.5063 4240.2778)" class="st9 st2 st8">Login</text>
+<path class="st10" d="M984.2,4269.5H866.8c-22.8,0-41.3-18.5-41.3-41.3v-11.4c0-22.8,18.5-41.3,41.3-41.3h117.4
+	c22.8,0,41.3,18.5,41.3,41.3v11.4C1025.5,4251,1007,4269.5,984.2,4269.5z"/>
+<text transform="matrix(1 0 0 1 649.2617 3953.1572)" class="st2 st11">Remember Me</text>
+<text transform="matrix(1 0 0 1 1060.6729 3972.4053)" class="st2 st11">Register Page Link</text>
+<polyline class="st0" points="-22.5,4680.8 -176.9,4680.8 -176.9,5941.2 -38.1,5941.2 "/>
+<text transform="matrix(1 0 0 1 -534.5967 5268.0879)" class="st2 st4">Register Page</text>
+<text transform="matrix(1 0 0 1 -482.3779 5336.5254)" class="st2 st8">100 vh</text>
+<line x1="-10.7" y1="4708.8" x2="1844.3" y2="5965.8"/>
+<line x1="5.3" y1="5937.8" x2="1872" y2="4708.8"/>
+<text transform="matrix(1 0 0 1 1514.3453 5954.9849)" class="st2 st5">Background Image</text>
+<rect x="589.3" y="4984.5" class="st7" width="687.5" height="832"/>
+<text transform="matrix(1 0 0 1 822.1704 5051.0029)" class="st2 st8">Register</text>
+<text transform="matrix(1 0 0 1 633.8877 5339.5215)" class="st2 st8">Email:</text>
+<text transform="matrix(1 0 0 1 633.7061 5417.0679)" class="st2 st8">Password:</text>
+<text transform="matrix(1 0 0 1 833.5063 5765.2778)" class="st9 st2 st8">Register</text>
+<path class="st10" d="M1014.2,5794.5H846.8c-22.8,0-41.3-18.5-41.3-41.3v-11.4c0-22.8,18.5-41.3,41.3-41.3h167.4
+	c22.8,0,41.3,18.5,41.3,41.3v11.4C1055.5,5776,1037,5794.5,1014.2,5794.5z"/>
+<text transform="matrix(1 0 0 1 633.4629 5499.9331)" class="st2 st8">Confirm Password:</text>
+<text transform="matrix(1 0 0 1 690.3232 5255.3438)" class="st2 st5">First Name:</text>
+<text transform="matrix(1 0 0 1 991.2236 5255.7998)" class="st2 st5">Last Name:</text>
+<g>
+	<rect x="13.9" y="3175.7" class="st1" width="1918" height="123.4"/>
+	<text transform="matrix(1 0 0 1 100.7177 3247.6504)" class="st2 st5">Company Name</text>
+	<text transform="matrix(1 0 0 1 1468.27 3247.6506)" class="st2 st5">Login</text>
+	<text transform="matrix(1 0 0 1 1695.1626 3247.6506)" class="st2 st5">Register</text>
+</g>
+<g>
+	<rect x="13.9" y="4680.7" class="st1" width="1918" height="123.4"/>
+	<text transform="matrix(1 0 0 1 100.7177 4752.6504)" class="st2 st5">Company Name</text>
+	<text transform="matrix(1 0 0 1 1468.27 4752.6509)" class="st2 st5">Login</text>
+	<text transform="matrix(1 0 0 1 1695.1626 4752.6509)" class="st2 st5">Register</text>
+</g>
+<polyline class="st0" points="-22.5,6289.8 -176.9,6289.8 -176.9,7550.2 -38.1,7550.2 "/>
+<text transform="matrix(1 0 0 1 -795.5967 7582.0879)" class="st2 st4">Display Page</text>
+<text transform="matrix(1 0 0 1 -402.3779 6945.5254)" class="st2 st8">100 vh</text>
+<g>
+	<rect x="13.9" y="6289.7" class="st1" width="1918" height="123.4"/>
+	<text transform="matrix(1 0 0 1 100.7177 6361.6504)" class="st2 st5">Company Name</text>
+	<text transform="matrix(1 0 0 1 1468.27 6361.6509)" class="st2 st5">Welcome</text>
+	<text transform="matrix(1 0 0 1 1695.1626 6361.6509)" class="st2 st5">Logout</text>
+</g>
+<text transform="matrix(1 0 0 1 512.9204 7012.6934)" class="st2 st3">Table Display of Database Results</text>
+<rect x="147" y="6525" class="st10" width="1697" height="940"/>
+<text transform="matrix(1 0 0 1 372.4204 8070.1934)" class="st2 st3">Table Display of Customer Database Results</text>
+<rect x="146.5" y="7582.5" class="st10" width="1697" height="940"/>
+<polyline class="st0" points="-245.8,6286 -442,6286 -442,8878.3 -89,8878.3 "/>
+</svg>

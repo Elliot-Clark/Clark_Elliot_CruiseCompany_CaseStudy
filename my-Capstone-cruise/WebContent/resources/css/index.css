@@ -1,0 +1,144 @@
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  html {
+    font-family: "Rubik", sans-serif;
+    color: #444;
+    scroll-behavior: smooth;
+    animation-duration: 2s;
+    animation-timing-function: ease-in-out;
+    animation-name: down;
+    animation-iteration-count: infinite;
+  }
+
+  .container {
+    margin: 0 auto;
+  }
+
+  #centerContainer {
+    width: 300px;
+    display: flex;
+    justify-content: space-around;
+  }
+
+  header {
+    height: 100vh;
+    position: relative;
+    background-image: linear-gradient(
+        rgba(34, 34, 34, 0.6),
+        rgba(34, 34, 34, 0.6)
+      ),
+      url(${pageContext.request.contextPath}/resources/images/cruiseship.jpg);
+    background-size: cover;
+    color: #fff;
+  }
+
+  #rightContainer {
+    white-space: nowrap;
+  }
+
+  a {
+    text-decoration: none;
+    color: white;
+  }
+
+  #rightContainer a {
+    margin-left: 20px;
+  }
+
+  nav {
+    font-size: 20px;
+    font-weight: 700;
+    display: flex;
+    justify-content: space-between;
+    padding: 32px 0px;
+    max-width: 90% !important;
+    border-bottom: 1px solid #444;
+  }
+
+  .header-container {
+    width: 1200px;
+    position: absolute;
+    left: 40%;
+    top: 40%;
+    transform: translate(-50%, -50%);
+  }
+
+  .header-container-inner {
+    width: 50%;
+  }
+
+  .header-container-inner h1 {
+    font-size: 52px;
+    margin-bottom: 32px;
+    line-height: 1.05;
+    letter-spacing: 4px;
+    font-family: 'Pattaya', sans-serif;
+  }
+
+  p {
+    font-size: 20px;
+    line-height: 1.6;
+    margin-bottom: 48px;
+  }
+
+  .btn:link,
+  .btn:visited {
+    font-size: 20px;
+    font-weight: 600;
+    background-color: #e67e22;
+    color: #fff;
+    text-decoration: none;
+    display: inline-block;
+    padding: 16px 32px;
+    border-radius: 9px;
+  }
+
+  h2 {
+    font-size: 44px;
+    margin-bottom: 48px;
+  }
+
+.index-Container {
+  height: 100vh;
+  background-color: white;
+  padding: 5%;
+}
+
+.index-Container h1 {
+  padding-bottom: 20px;
+}
+
+#aboutUs {
+  flex-direction: column;
+}
+
+#quote {
+  display: block;
+  width: 100%;
+}
+
+.index-Container {
+  display: flex;
+}
+
+.indexSection {
+  padding: 2%;
+  background-color: rgb(236, 236, 236);
+  display: flex;
+  align-items: center;
+  font-size: 1.4rem;
+}
+
+.indexSection img {
+  margin: 2%;
+  width: 800px;
+  border-radius: 10px;
+  padding: 20px;
+  border: 2px solid black;
+}

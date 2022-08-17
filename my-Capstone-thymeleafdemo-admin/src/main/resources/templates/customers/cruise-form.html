@@ -1,0 +1,70 @@
+<!DOCTYPE HTML>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+
+<head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/css/bootstrap.min.css" integrity="sha384-GJzZqFGwb1QTTN6wy59ffF1BuGJpLSa9DkKMp0DgiMDm4iYMj70gZWKYbI706tWS" crossorigin="anonymous">
+
+	<title>Save Cruise</title>
+</head>
+
+<body>
+
+	<div class="container">
+	
+		<h3>Cruise Directory</h3>
+		<hr>
+		
+		<p class="h4 mb-4">Save Cruise</p>
+	
+		<form action="#" th:action="@{/customers/saveCruise}"
+						 th:object="${cruises}" method="POST">
+
+			<span>Id:</span>
+			<input type="text" th:field="*{id}"
+					class="form-control mb-4 col-4">
+		
+			<span>Destination:</span>
+			<input type="text" th:field="*{destination}"
+					class="form-control mb-4 col-4">
+			<span>Leaving From:</span>
+			<input type="text" th:field="*{leavingFrom}"
+					class="form-control mb-4 col-4">	
+				
+			<span>Duration (days):</span>		
+			<input type="number" th:field="*{duration}"
+					class="form-control mb-4 col-4">
+			<span>Price ($):</span>	
+			<input type="number" th:field="*{price}"
+					class="form-control mb-4 col-4">
+			
+			<button type="submit" class="btn btn-info col-2">Save</button>
+			
+			<a th:href="@{/customers/deleteCruise(cruiseId=*{id})}"
+				class="btn btn-info btn-sm">
+				Delete
+			</a>
+	
+		</form>
+
+		<hr>
+		<a th:href="@{/customers/list}">Back to Admin Page</a>
+		
+	</div>
+</body>
+
+</html>
+
+
+
+
+
+
+
+
+
+
